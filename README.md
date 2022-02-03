@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java programming 
 - 🌱 I’m currently learning JavaCore, Spring Framework 
 - 💞️ I’m looking to collaborate as a Java developer
-- 📫 How to reach me vlados0327@gmail.com
+
 
 <!---
 GVVlad/GVVlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
